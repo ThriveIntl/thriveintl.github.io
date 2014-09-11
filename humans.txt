@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    John Kaczmarek -- Code monkey -- @johnkacz
+    Seth Whitton   -- Design      -- @sethwhitton
+
+# THANKS
+
+    H5BP
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
