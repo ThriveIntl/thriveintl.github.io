@@ -4,7 +4,6 @@
 # TEAM
 
     John Kaczmarek -- Code monkey -- @johnkacz
-    Seth Whitton   -- Design      -- @sethwhitton
 
 # THANKS
 
@@ -13,4 +12,4 @@
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    jQuery, Modernizr, Normalize.css, Bourbon, Neat
